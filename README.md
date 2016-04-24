@@ -24,6 +24,24 @@ SPI: https://github.com/whaleygeek/pyenergenie/blob/master/src/energenie/drv/spi
 
 I2C: http://blog.whaleygeek.co.uk/raspberry-pi-rfid-tag-reader/
 
+
+Downstream projects that are likely to benefit from this:
+
+PYENERGENIE: https://github.com/whaleygeek/pyenergenie
+
+PEEK-A-BOO: http://blog.whaleygeek.co.uk/raspberry-pi-peek-a-boo-camera/
+
+COLOUR-MIXER: http://blog.whaleygeek.co.uk/raspberry-pi-neopixels-colour-mixer/
+
+RFID READER: http://blog.whaleygeek.co.uk/raspberry-pi-rfid-tag-reader/
+
+PIDUINO: http://skpang.co.uk/catalog/piduino-kit-p-1337.html
+
+RASPIO DUINO?: http://rasp.io/duino/
+
+ANYIO: https://github.com/whaleygeek/anyio
+
+
 David Whale
 
 @whaleygeek
